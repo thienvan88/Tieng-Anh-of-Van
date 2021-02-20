@@ -2,22 +2,7 @@
 
 <html lang="en-US">
   <head>
-    <meta charset='utf-8'>
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=640">
-
-    <link rel="stylesheet" href="/mhvnfc-manga/assets/css/style.css?v=0722a8fdbb3cf63aac391a0599c856b79c1524f4" media="screen">
-    <link rel="stylesheet" href="/mhvnfc-manga/assets/css/mobile.css" media="handheld, only screen and (max-device-width:640px)">
-    <link rel="stylesheet" href="/mhvnfc-manga/assets/css/non-screen.css" media="handheld, only screen and (max-device-width:640px)">
-
-    <script src="/mhvnfc-manga/assets/js/modernizr.js"></script>
-    <script src="https://code.jquery.com/jquery-1.12.4.min.js" integrity="sha256-ZosEbRLbNQzLpnKIkEdrPv7lOy9C27hHQ+Xp8a4MxAQ=" crossorigin="anonymous"></script>
-    <script src="/mhvnfc-manga/assets/js/headsmart.min.js"></script>
-    <script>
-      $(document).ready(function () {
-        $('#main_content').headsmart()
-      })
-    </script>
+    
 
 <!-- Begin Jekyll SEO tag v2.6.1 -->
 <title>Mashima Hiro VN FC manga | mhvnfc-manga</title>
@@ -83,21 +68,6 @@
 <p>Cảm ơn các bạn đã ủng hộ!</p>
 
       </section>
-
-      <footer>
-        <span class="ribbon-outer">
-          <span class="ribbon-inner">
-            
-              <p>this project by <a href="https://github.com/khanhdinh02">khanhdinh02</a> can be found on <a href="https://github.com/khanhdinh02/mhvnfc-manga">GitHub</a></p>
-            
-            
-          </span>
-          <span class="left-tail"></span>
-          <span class="right-tail"></span>
-        </span>
-        <p>Generated with <a href="https://pages.github.com">GitHub Pages</a> using Merlot</p>
-        <span class="octocat"></span>
-      </footer>
 
     </div>
 

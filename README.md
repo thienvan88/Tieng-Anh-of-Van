@@ -2,19 +2,6 @@
 
 <html lang="en-US">
   <head>
-    
-
-<!-- Begin Jekyll SEO tag v2.6.1 -->
-<title>Mashima Hiro VN FC manga | mhvnfc-manga</title>
-<meta name="generator" content="Jekyll v3.9.0" />
-<meta property="og:title" content="Mashima Hiro VN FC manga" />
-<meta property="og:locale" content="en_US" />
-<link rel="canonical" href="https://khanhdinh02.github.io/mhvnfc-manga/" />
-<meta property="og:url" content="https://khanhdinh02.github.io/mhvnfc-manga/" />
-<meta property="og:site_name" content="mhvnfc-manga" />
-<script type="application/ld+json">
-{"@type":"WebSite","headline":"Mashima Hiro VN FC manga","url":"https://khanhdinh02.github.io/mhvnfc-manga/","name":"mhvnfc-manga","@context":"https://schema.org"}</script>
-<!-- End Jekyll SEO tag -->
 
   </head>
 

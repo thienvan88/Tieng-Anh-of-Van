@@ -1,38 +1,11 @@
 
 
 <html lang="en-US">
-  <head>
-
-  </head>
 
   <body>
-    <a id="forkme_banner" href="https://github.com/khanhdinh02/mhvnfc-manga">View on GitHub</a>
-    <div class="shell">
+    
 
-      <header>
-        <span class="ribbon-outer">
-          <span class="ribbon-inner">
-            <h1>mhvnfc-manga</h1>
-            <h2></h2>
-          </span>
-          <span class="left-tail"></span>
-          <span class="right-tail"></span>
-        </span>
-      </header>
-
-      
-        <div id="no-downloads">
-          <span class="inner">
-          </span>
-        </div>
-      
-
-
-      <span class="banner-fix"></span>
-
-
-      <section id="main_content">
-        <h2 id="mashima-hiro-vn-fc-manga">Mashima Hiro VN FC manga</h2>
+ 
 <p>Đây là nơi up truyện tạm thời của fanpage <a href="https://fb.com/mashimahirovnfc">Mashima Hiro VN FC</a> và <a href="https://fb.com/Black-Clover-VN-Fanpage-1049221435105449">Black Clover VN Fanpage</a></p>
 <h3 id="danh-sách-manga">Danh sách manga</h3>
 <ul>
